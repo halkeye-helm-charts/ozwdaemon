@@ -3,7 +3,7 @@ appVersion: amd64-173
 description: OpenZWave Daemon (MQTT and Remote Access)
 name: ozwdaemon
 type: application
-version: 0.1.1
+version: 0.1.2
 keywords:
   - "home automation"
   - "home assistant"
